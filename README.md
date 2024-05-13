@@ -1,6 +1,6 @@
-# blessed
+# bblessed
 
-A curses-like library with a high level terminal interface API for node.js.
+A curses-like library with a high level terminal interface API for node.js, forked to "bblessed" for Bun JS support (https://bun.sh)
 
 ![blessed](https://raw.githubusercontent.com/chjj/blessed/master/img/v0.1.0-3.gif)
 
@@ -33,7 +33,7 @@ The blessed API itself has gone on to inspire [termui][termui] for Go.
 ## Install
 
 ``` bash
-$ npm install blessed
+$ npm install bblessed
 ```
 
 ## Example
